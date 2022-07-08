@@ -1,0 +1,28 @@
+
+/****  body assigns style to entire page ****/
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+/****** Header ******/
+
+h1 {
+    background: #469699;
+    color: white;
+    padding: 5px;
+}
+a {
+    text-decoration: none;
+}
+.section-title {
+    color: #469699;
+    text-transform: uppercase;
+}
+
+ul {
+    list-style: none;
+}
+/****** Main ******/
+
+
+/****** Footer ******/
